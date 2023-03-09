@@ -4,5 +4,8 @@
 #### Install [Musescore](https://musescore.org/en/download) to your system for the representation of MIDI output
 #### Run the Preprocessor.py file to configure all the settings and libraries included
 #### Train the Model by running `Train.py` file Or Skip the step as it is already trained once
-#### Finally run the `Melodygenerator.py` file to Generate .midi/.mid
-files as output (for different outputs you have to update the seeds from the Datasets folder, which is generated after preprocessing)
+#### Finally run the `Melodygenerator.py` file to Generate .midi/.mid files as output 
+
+
+Note: 
+>For different outputs you have to update the seeds from the Datasets folder, which is generated after preprocessing.
